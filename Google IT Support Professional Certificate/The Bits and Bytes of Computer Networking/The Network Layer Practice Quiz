@@ -1,1 +1,16 @@
+1. Please select all of the valid IP addresses. Check all that apply:
+Answers:
+8.8.8.8
+192.168.1.1
 
+2. How many IP Addresses does a class C network have?
+Answer: 256 addresses
+
+3. Which IP Address class has the first two octets reserved for the network ID and the last two octets for the host ID?
+Answer: Class B
+
+4. The ________ is used to indicate that the diagram is allowed to be fragmented or to indicate that the diagram has already been fragmented. 
+Answer: flag field
+
+5. The IP Address assigned to a device would depend on the _________ it is connected. 
+Answer: network. 
