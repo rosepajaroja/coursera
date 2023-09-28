@@ -1,0 +1,14 @@
+1. What ordering of TCP flags make up the Three-Way Handshake?
+Answer: SYN, SYN/ACK, ACK
+
+2. Transport layer protocols, like TCP and UDP, introduce the concept of a port. How many bits are in a port field?
+Answer: 16 bits
+
+3. A device that blocks traffic that meets certain criteria is known as a ____________. 
+Aswer: Firewall
+
+4. Which TCP flag is used to make the listening program respond immediately?
+Answer: PSH
+
+5. _____________ are identified as ports 49152 through 65535.
+Answer: Ephemeral ports
