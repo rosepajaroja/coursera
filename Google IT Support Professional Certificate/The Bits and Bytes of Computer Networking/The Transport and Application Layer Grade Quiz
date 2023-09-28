@@ -1,0 +1,29 @@
+1. The concept of taking traffic that’s all aimed at the same node and delivering it to the proper receiving service is known as _________.
+Answer: demultiplexing
+
+2. Which field in the TCP header provides the information for the receiving network device to understand where the actual data payload begins?
+Answer: Data offset
+
+3. A Transmission Control Protocol (TCP) connection is established and two devices ensure that they're speaking the same protocol. What has occurred?
+Answer: Three-way handshake
+
+4. A connection has been terminated and no communication is possible. What is the Transmission Control Protocol (TCP) socket state?
+Answer: Closed
+
+5. If the checksum doesn't compute for a packet sent at the Internet Protocol (IP) level, what will happen to the data?
+Answer: The data will be discarded
+
+6. In the OSI network model, the ________ is responsible for making sure that the unencapsulated application layer data is actually able to be understood by the application in question.
+Answer: presentation layer
+
+7. Which Transmission Control Protocol (TCP) flag is used to make sure the receiving end knows to examine the sequence number field?
+Answer: SYN
+
+8. What layer of the TCP/IP Five-Layer Network Model allows applications to communicate in a way they understand?
+Answer: Application layer
+
+9. What port does the File Transfer Protocol (FTP) typically listen on?
+Answer: 21
+
+10. In what order will the Transmission Control Protocol (TCP) generally send all segments?
+Answer: Sequential
