@@ -1,0 +1,16 @@
+1. Unlike our five-layer model, the OSI network model adds two more layers on top of the Application Layer. Select examples of these new layers below.
+Answers: 
+The presentation layer
+The session layer
+
+2. An example of something that operates at the application layer is:
+Answer: a web browser
+
+3. What's the standard number for a TTL field?
+Answer: 64
+
+4. Which part of the operating system does the application use to communicate the need to establish a TCP connection?
+Answer: Networking stack
+
+5. Which section of the TCP/IP Five-Layer Network Model contains the data the application wants to send?
+Answer: The payload of the TCP segment
